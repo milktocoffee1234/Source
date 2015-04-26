@@ -1,0 +1,25 @@
+package after;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class Register {
+	public void totalCost(Shop s , MemberCard membersCard){
+		
+		List<String> nameList = s.stream().map(e -> e.getName()).collect(Collectors.toList());
+		printBanner();
+		printReceipt(nameList, membersCard.reduction(sum));
+		printBanner();
+	}
+	private void printBanner(){
+		//メソッドの抽出
+		System.out.println("***********************");
+		System.out.println("******* result ********");
+		System.out.println("***********************");
+	}
+	private void printReceipt(List<String> nameList , double sum){
+		//メソッドの抽出　ローカル変数あり
+		System.out.println("name: " + nameList);
+		System.out.println("sum: " + sum);
+	}
+}

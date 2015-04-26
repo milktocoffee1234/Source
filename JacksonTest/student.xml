@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<student>
+	<id>20</id>
+	<name>matui</name>
+	<score>
+		<mid>0</mid>
+		<fin>17</fin>
+	</score>
+</student>

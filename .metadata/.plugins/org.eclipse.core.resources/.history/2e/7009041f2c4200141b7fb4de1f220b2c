@@ -1,0 +1,30 @@
+package masa;
+
+public class ArrayList<T> {
+	private java.util.ArrayList<T> list = new java.util.ArrayList<T>();
+	private Class<T> type;
+
+    public ArrayList(T... e) {
+        @SuppressWarnings("unchecked")
+        Class<T> type = (Class<T>) e.getClass().getComponentType();
+        this.type = type;
+    }
+
+	public void add(Object obj){
+		ArrayList<this.type> list;
+		
+		if(obj.getClass() == this.type){
+			System.out.println(obj);
+			System.out.println(obj.getClass());
+			System.out.println("エラーでないよ");
+		}else{
+			System.out.println(obj);
+			System.out.println(obj.getClass());
+			System.out.println("エラーでるよ");
+		}
+	}
+	public Class<T> getType(){
+		return this.type;
+	}
+
+}

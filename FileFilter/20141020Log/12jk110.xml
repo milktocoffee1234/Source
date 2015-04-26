@@ -1,0 +1,855 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 12:41:45</time>
+		<code>public classB5_0{
+    public static void main(String[] args){
+        
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 12:42:05</time>
+		<code>public class B5_0{
+    public static void main(String[] args){
+        
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:05:05</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+        arrayList.get();
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:05:07</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+        arrayList.get();
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:05:16</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+        arrayList.get(i);
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:06:04</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+        Dice dice = arrayList.get(i);
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:07:22</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+        Dice dice = arrayList.get(i);
+        System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:41</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:45</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:47</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:48</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:49</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:50</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:52</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:53</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:13:58</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:03</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:06</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:07</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:08</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:09</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:10</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:10</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:11</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:12</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:14</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:15</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:16</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:17</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:18</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:20</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:20</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:22</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:23</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:25</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:27</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:28</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:29</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:30</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:31</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student><?xml version='1.0' encoding='UTF-8'?>
+<student>
+	<data>
+		<time>2014-10-20 13:14:31</time>
+		<code>import java.util.ArrayList;
+public class B5_0{
+    public static void main(String[] args){
+        ArrayList&lt;Dice&gt;arrayList = new ArrayList&lt;Dice&gt;();
+        for(int i =0; i &lt; 3; i++){
+            arrayList.add(new Dice());
+        }
+        for(int i =0;i &lt; arrayList.size();i++){
+            Dice dice = arrayList.get(i);
+            dice.cast();
+        }
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            Dice dice = arrayList.get(i);
+            System.out.println(dice.getValue());
+        }
+    }
+}</code>
+	</data>
+</student>

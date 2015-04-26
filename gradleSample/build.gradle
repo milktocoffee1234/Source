@@ -1,0 +1,21 @@
+apply plugin: 'java'
+apply plugin: 'eclipse-wtp'
+
+// バージョン情報は変数にしておきます
+ext {
+	springBootVersion = '1.2.1.RELEASE'
+}
+// リポジトリの設定
+repositories { 
+	jcenter()
+}
+
+//　依存関係の設定
+dependencies {
+    // SpringBoot
+    compile "org.springframework.boot:spring-boot-starter-web:$springBootVersion"
+    compile "org.springframework.boot:spring-boot-starter-test:$springBootVersion"
+    
+    // gradle plugin
+    compile "org.springframework.boot:spring-boot-gradle-plugin:$springBootVersion"
+}

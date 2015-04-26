@@ -1,0 +1,26 @@
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Iterator;
+import java.util.List;
+
+
+public class Sheet implements Iterable<String>{
+	private List<String> list = new ArrayList<String>();
+	
+	public Sheet(String filename) throws IOException{
+	     this.list =  Files.readAllLines(Paths.get(filename),StandardCharsets.UTF_8);
+	        
+	}
+	public ArrayList<String> getFields(){
+		return new ArrayList<String>(Arrays.asList(list.get(0).split(",")));
+	}
+	@Override
+	public Iterator<String> iterator() {
+		// TODO Auto-generated method stub
+		return this.list.iterator();
+	}
+}

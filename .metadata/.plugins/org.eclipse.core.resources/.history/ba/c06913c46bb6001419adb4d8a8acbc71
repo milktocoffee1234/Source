@@ -1,0 +1,17 @@
+package after;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+public class Shop {
+	private List<Item> shoppingCart = new ArrayList<Item>(); 
+	private Register register = new Register();
+	
+	public void addItem(Item i){
+		this.shoppingCart.add(i);
+	}
+	public void check(MemberCard membersCard){
+		register.totalCost(shoppingCart, membersCard);
+	}
+}

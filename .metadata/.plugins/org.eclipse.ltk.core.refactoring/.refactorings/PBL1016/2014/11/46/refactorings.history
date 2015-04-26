@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Sheet.java&apos; to &apos;PBL1113/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;PBL1016&apos;&#x0D;&#x0A;- Destination element: &apos;PBL1113/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;Sheet.java&apos;" description="Copy compilation unit" destination="=PBL1113/src&lt;" element1="/src&lt;{Sheet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1415869757691" units="1" version="1.0"/>
+</session>

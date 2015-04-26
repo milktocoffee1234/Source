@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TwitterProject/src/twitter4j.properties.txt&apos; to &apos;twitter4j.properties&apos;" description="Rename resource &apos;twitter4j.properties.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/twitter4j.properties.txt" name="twitter4j.properties" stamp="1408681099316" updateReferences="true"/>
+</session>

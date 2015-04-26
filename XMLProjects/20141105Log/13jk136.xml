@@ -1,0 +1,2371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:13:07</time>
+    <code>public class B6_1{
+    public static void main(String[] args)
+    
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:13:08</time>
+    <code>public class B6_1{
+    public static void main(String[] args)
+    
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:13:08</time>
+    <code>public class B6_1{
+    public static void main(String[] args)
+    
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:13:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args)
+    
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:13:24</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:13:25</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:13:25</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:14:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:15:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:16:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:17:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:18:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:19:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        sum 
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:20:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:21:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:22:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin50 coin
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:23:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin1 = new Coin1(50);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:24:07</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin50 coin1 = new Coin50(50);
+        Coin100 coin2 = new Coin100(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:24:07</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin50 coin1 = new Coin50(50);
+        Coin100 coin2 = new Coin100(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:24:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin50 coin1 = new Coin50(50);
+        Coin100 coin2 = new Coin100(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:25:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin1 = new Coin(50);
+        Coin coin2 = new Coin100(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:25:16</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin1 = new Coin(50);
+        Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:25:17</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin1 = new Coin(50);
+        Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:25:37</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin50 coin1 = new Coin50(50);
+        //Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:25:38</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin50 coin1 = new Coin50(50);
+        //Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:26:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        GetValue coin1 = new GetVal(50);
+        //Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:26:14</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        GetValue coin1 = new GetValue(50);
+        //Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:27:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+         coin1 = new (50);
+        //Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:28:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+         coin1 = new (50);
+        //Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:29:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin1 = new (50);
+        //Coin coin2 = new Coin(100);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:29:55</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        Coin coin1 = new Coin(50);
+        Coin coin2 = new Coin(100);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:29:56</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        Coin coin1 = new Coin(50);
+        Coin coin2 = new Coin(100);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:30:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        Coin coin1 = new Coin(50);
+        Coin coin2 = new Coin(100);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:30:35</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:30:35</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:30:36</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:30:36</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:30:37</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:31:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:32:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:33:11</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        coin.add(new Coin50());
+        coin.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:33:12</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        coin.add(new Coin50());
+        coin.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:33:12</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        coin.add(new Coin50());
+        coin.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:33:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        coin.add(new Coin50());
+        coin.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:34:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        coin.add(new Coin50());
+        coin.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:35:15</time>
+    <code>public class B6_1{
+    priv
+    public static void main(String[] args){
+        Coin coin = new Coin();
+        coin.add(new Coin50());
+        coin.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:36:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        coin.add(new Coin50());
+        coin.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:37:15</time>
+    <code>public class B6_1{
+    private coin100 = 
+    public static void main(String[] args){
+        coin.add(new Coin50());
+        coin.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:37:57</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        new Coin50();
+        new Coin100();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:38:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 new Coin50();
+        new Coin100();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:38:35</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin50();
+        Value coin2 = new Coin100();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:39:06</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin1 = new Coin100();
+        Value coin2 = new coin50();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:39:07</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin1 = new Coin100();
+        Value coin2 = new coin50();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:39:14</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        //Value coin2 = new coin50();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:39:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        //Value coin2 = new coin50();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:39:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        //Value coin2 = new coin50();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:39:31</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:39:32</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:39:55</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        //Value coin3 = new C0in50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:39:56</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        //Value coin3 = new C0in50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:40:07</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        Value coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:40:08</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        Value coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:40:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        Value coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:40:23</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        Value coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:40:24</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        Value coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:40:24</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        Value coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:40:25</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Value coin1 = new Coin100();
+        Value coin2= new Coin100();
+        Value coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:40:59</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:40:59</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:41:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        System.out
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:13</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        System.out.println(&quot;合計：&quot; + coin1 + coin2 + coin3);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:42:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        System.out.println(&quot;合計：&quot; + coin1 + coin2 + coin3);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:55</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        System.out.println(&quot;合計：&quot; sum + coin1 + coin2 + coin3);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:43:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        System.out.println(&quot;合計：&quot; sum );
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:43:33</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:44:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1 + coin2 + coin
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:19</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1 + coin2 + coin3;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:21</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1 + coin2 + coin3;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:21</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1 + coin2 + coin3;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:30</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1 + coin3;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:38</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:42</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:42</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:43</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:43</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:45:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + 
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:45:31</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + Coin100;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:45:42</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:45:43</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:46:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + Coin100.coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:46:16</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + Coin100.coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:46:17</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + Coin100.coin1;
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:47:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:47:17</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:47:47</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue() + coin2.getValue() + coin3.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:48:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue() + coin2.getValue() + coin3.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:49:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue() + coin2.getValue() + coin3.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:50:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue() + coin2.getValue() + coin3.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:51:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue() + coin2.getValue() + coin3.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:52:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue() + coin2.getValue() + coin3.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:53:15</time>
+    <code>public class B6_1{
+    public static void main(String[] args){
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2= new Coin100();
+        Coin50 coin3 = new Coin50();
+        
+        int sum = 0;
+        sum = sum + coin1.getValue() + coin2.getValue() + coin3.getValue();
+        System.out.println(&quot;合計：&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:55:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:55:26</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:55:44</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:56:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:57:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:58:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:59:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:00:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:01:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:02:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:03:25</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:04:25</time>
+    <code>import
+public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:04:45</time>
+    <code>import java.util.jp.ArrayList
+public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:04:52</time>
+    <code>import java.util.jp.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:04:53</time>
+    <code>import java.util.jp.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:05:00</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:05:01</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:05:01</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:05:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:05:25</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:05:58</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:12</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:12</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:13</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:13</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:14</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:14</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:15</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:06:25</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:07:25</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:08:25</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:09:25</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:10:25</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:10:56</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:10:56</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:11:22</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:11:25</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add();
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:11:58</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:11:58</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:11:59</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:12:10</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:12:10</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:12:28</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:12:28</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:13:10</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:13:11</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:13:11</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:13:11</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new coin1());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:13:19</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:13:19</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:13:19</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:13:19</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:13:28</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        arrayList.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:14:11</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2 = new Coin100();
+        Coin50 coin3 = new Coin50();
+        arrayList.add(new Coin100());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:14:28</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Coin100 coin1 = new Coin100();
+        Coin100 coin2 = new Coin100();
+        Coin50 coin3 = new Coin50();
+        arrayList.add(new Coin100());
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:15:28</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Coin10 coin2 = new Coin100();
+        Coin50 coin3 = new Coin50();
+        arrayList.add(new Coin100());
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:15:58</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Coin50 coin3 = new Coin50();
+        arrayList.add(new Coin100());
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:15:58</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Coin50 coin3 = new Coin50();
+        arrayList.add(new Coin100());
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:16:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(new Coin100());
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:16:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(new Coin100());
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:16:28</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(new Coin100());
+        arrayList.add(new );
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:16:37</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(new Value());
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:17:28</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1;
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:17:32</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:17:33</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:17:33</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:17:51</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1,coin2);
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:18:31</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        a
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:18:52</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:19:31</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0 i&lt;){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:56</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0 i&lt;arrayList.getsize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:56</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0 i&lt;arrayList.getsize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;arrayList.getsize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;arrayList.getsize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:08</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;arrayList.getSize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:10</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;arrayList.getSize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:10</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;arrayList.getSize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:14</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;ArrayList.getSize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:15</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;ArrayList.getSize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:23</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;arrayList.getSize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:20:31</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;arrayList.getSize(); i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:37</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;0; i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:37</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;0; i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:20:41</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;0; i++){
+            
+        }
+    }
+}</code>
+  </data><?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:21:31</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList&lt;Value&gt;();
+        Value coin1 = new Coin100();
+        Value coin2 = new Coin100();
+        Value coin3 = new Coin50();
+        arrayList.add(coin1);
+        arrayList.add(coin2);
+        arrayList.add(coin3);
+        
+        int sum = 0;
+        for(int i=0; i&lt;0; i++){
+            
+        }
+    }
+}</code>
+  </data>

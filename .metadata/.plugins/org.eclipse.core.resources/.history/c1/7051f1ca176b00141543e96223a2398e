@@ -1,0 +1,44 @@
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.List;
+
+
+public class Main {
+	public static void main(String[] args) throws IOException{
+		Sheet sheet = new Sheet("object01.csv");
+		Sheet sheet2 = new Sheet("object02.csv");
+		List<String> list = null;
+		try{
+			list = Files.readAllLines(Paths.get("field01.csv"));
+			
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+		
+		for(String line : sheet){
+			String[] elements = line.split(",");
+			for(String line2: sheet2){
+				String[] elements2 = line2.split(",");
+				for(String field : list){
+					System.out.println(field);
+					String id = elements[sheet.getFields().indexOf(field)];
+					String id2 = elements[sheet2.getFields().indexOf(field)];
+					if(id.equals(id2)){
+						System.out.println(id);
+					}
+				}
+			}
+		}
+			
+			
+/*		for(String line : sheet){
+			String[] elements = line.split(",");
+			for(String arg : args){
+				System.out.print(elements[sheet.getFields().indexOf(arg)] + " ");
+			}
+			System.out.println();
+		}
+*/
+	}
+}

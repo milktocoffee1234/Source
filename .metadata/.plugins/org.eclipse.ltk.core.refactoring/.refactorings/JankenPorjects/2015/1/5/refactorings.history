@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;HandSigns.java&apos; to &apos;HandSign.java&apos;&#x0D;&#x0A;- Original project: &apos;JankenPorjects&apos;&#x0D;&#x0A;- Original element: &apos;HandSigns.java&apos;&#x0D;&#x0A;- Renamed element: &apos;HandSign.java&apos;" description="Rename compilation unit &apos;HandSigns.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{HandSigns.java" name="HandSign.java" references="false" stamp="1422337376694" version="1.0"/>
+</session>

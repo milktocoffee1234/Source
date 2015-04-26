@@ -1,0 +1,26 @@
+import java.util.List;
+
+
+
+public class Main {
+	public static void main(String[] args){
+		Group group = new Group();
+		group.add(new Member("11jk001","aikawa",Gender.MALE));
+		group.add(new Member("12jk022","ito",Gender.MALE));
+		group.add(new Member("12jk058","ooba",Gender.FEMALE));
+		group.add(new Member("11jk088","goto",Gender.MALE));
+		
+		List<Member> list = group.getList(new Filter(){
+			@Override
+			public boolean accept(Member member) {
+				// TODO Auto-generated method stub
+				if(member.getGender() == Gender.MALE){
+					return true;
+				}else{
+					return false;
+				}
+			}});
+		
+		group.getColumn2((Member m )-> m.getName()).forEach(System.out::println);
+	}
+}

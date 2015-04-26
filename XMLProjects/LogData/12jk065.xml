@@ -1,0 +1,6120 @@
+
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:12:12</time>
+    <code>public class B</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:12:49</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:13:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:14:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:15:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:16:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:17:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100;
+        Coin100 coin1 = new Coin100;
+        Coin100
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:17:33</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100;
+        Coin100 coin1 = new Coin100;
+        Coin50 coin2 = new Coin50;
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:18:07</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:18:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:19:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:20:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:21:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:22:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:23:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:24:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:25:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:26:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:27:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:28:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:29:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:30:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:31:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:32:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:33:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:34:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:34:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:34:15</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:35:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:36:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        c
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:37:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin 50 Coin5 = new Coin50();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:38:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin 50 Coin5 = new Coin50();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:39:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:40:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:41:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:03</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin6 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()+coin5.getValue()+coin6.getValue;
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:42:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin6 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()+coin5.getValue()+coin6.getValue;
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:33</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:43:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:43:44</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:02</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:03</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:44:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		S
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:45:05</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:45:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:46:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:46:57</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:47:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:48:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:49:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:50:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:51:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:52:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue() 
+        sum = sum+coin1.getValue()
+        coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:52:41</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:52:42</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:53:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:54:16</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:55:19</time>
+    <code>public class B6_2{
+    public
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:55:48</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:56:04</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:56:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:57:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:58:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:59:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:00:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:01:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:02:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:03:20</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:04:20</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        A
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:05:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;&gt;
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:00</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:01</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:06:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:07:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add 
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:08:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:08:22</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:08:34</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:09:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:10:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:11:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:12:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:13:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:14:18</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:14:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:15:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:16:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:17:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(){
+            
+        }
+        System.out.println(&quot;合計&quot; +)
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:18:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; Arra; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:18:46</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; ArrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:15</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:16</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:19:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:31</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:20:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:21:21</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:12:12</time>
+    <code>public class B</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:12:49</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:13:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:14:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:15:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:16:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:17:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100;
+        Coin100 coin1 = new Coin100;
+        Coin100
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:17:33</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100;
+        Coin100 coin1 = new Coin100;
+        Coin50 coin2 = new Coin50;
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:18:07</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:18:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:19:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:20:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:21:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:22:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:23:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:24:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:25:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:26:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:27:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:28:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:29:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:30:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:31:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:32:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:33:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:34:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:34:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:34:15</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:35:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:36:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        c
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:37:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin 50 Coin5 = new Coin50();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:38:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin 50 Coin5 = new Coin50();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:39:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:40:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:41:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:03</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin6 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()+coin5.getValue()+coin6.getValue;
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:42:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin6 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()+coin5.getValue()+coin6.getValue;
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:33</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:43:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:43:44</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:02</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:03</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:44:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		S
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:45:05</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:45:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:46:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:46:57</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:47:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:48:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:49:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:50:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:51:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:52:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue() 
+        sum = sum+coin1.getValue()
+        coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:52:41</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:52:42</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:53:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:54:16</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:55:19</time>
+    <code>public class B6_2{
+    public
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:55:48</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:56:04</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:56:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:57:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:58:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:59:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:00:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:01:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:02:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:03:20</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:04:20</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        A
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:05:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;&gt;
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:00</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:01</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:06:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:07:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add 
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:08:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:08:22</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:08:34</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:09:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:10:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:11:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:12:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:13:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:14:18</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:14:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:15:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:16:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:17:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(){
+            
+        }
+        System.out.println(&quot;合計&quot; +)
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:18:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; Arra; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:18:46</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; ArrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:15</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:16</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:19:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:31</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:20:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:21:21</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:12:12</time>
+    <code>public class B</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:12:49</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:13:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:14:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:15:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:16:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:17:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100;
+        Coin100 coin1 = new Coin100;
+        Coin100
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:17:33</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100;
+        Coin100 coin1 = new Coin100;
+        Coin50 coin2 = new Coin50;
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:18:07</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:18:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:19:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:20:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:21:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:22:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:23:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:24:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:25:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:26:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:27:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:28:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:29:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:30:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:31:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:32:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:33:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:34:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:34:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:34:15</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:35:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:36:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        c
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:37:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin 50 Coin5 = new Coin50();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:38:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin 50 Coin5 = new Coin50();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:39:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:40:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:41:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:03</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin6 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()+coin5.getValue()+coin6.getValue;
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:42:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin6 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()+coin5.getValue()+coin6.getValue;
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:33</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:43:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:43:44</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:02</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:03</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:44:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		S
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:45:05</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:45:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:46:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:46:57</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:47:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:48:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:49:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:50:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:51:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:52:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue() 
+        sum = sum+coin1.getValue()
+        coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:52:41</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:52:42</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:53:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:54:16</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:55:19</time>
+    <code>public class B6_2{
+    public
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:55:48</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:56:04</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:56:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:57:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:58:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:59:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:00:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:01:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:02:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:03:20</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:04:20</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        A
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:05:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;&gt;
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:00</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:01</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:06:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:07:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add 
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:08:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:08:22</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:08:34</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:09:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:10:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:11:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:12:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:13:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:14:18</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:14:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:15:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:16:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:17:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(){
+            
+        }
+        System.out.println(&quot;合計&quot; +)
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:18:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; Arra; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:18:46</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; ArrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:15</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:16</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:19:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:31</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:20:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:21:21</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:12:12</time>
+    <code>public class B</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:12:49</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:13:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:14:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:15:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:16:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:17:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100;
+        Coin100 coin1 = new Coin100;
+        Coin100
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:17:33</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100;
+        Coin100 coin1 = new Coin100;
+        Coin50 coin2 = new Coin50;
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:18:07</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:18:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:19:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:20:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:21:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:22:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:23:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:24:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:25:12</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:26:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:27:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:28:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:29:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:30:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:31:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:32:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:33:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:34:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:34:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:34:15</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:35:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:36:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        c
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:37:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin 50 Coin5 = new Coin50();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:38:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin 50 Coin5 = new Coin50();
+        
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:39:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:40:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:41:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin5 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:03</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin6 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()+coin5.getValue()+coin6.getValue;
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:42:13</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        Coin50 Coin3 = new Coin50();
+        Coin100 Coin4 = new Coin100();
+        Coin50 Coin5 = new Coin50();
+        Coin100 Coin6 = new Coin100();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue()+coin3.getValue()+coin4.getValue()+coin5.getValue()+coin6.getValue;
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:42:33</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:43:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;円&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:43:44</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:02</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:44:03</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:44:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		S
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:45:05</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:45:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:46:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot;　+ sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:46:57</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:47:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:48:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:49:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:50:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:51:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum;
+        sum = coin0.getValue() + coin1.getValue() +coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:52:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue() 
+        sum = sum+coin1.getValue()
+        coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:52:41</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:52:42</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:53:14</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:54:16</time>
+    <code>public class B6_1{
+    public static void main (String[] args){
+        Coin100 coin0 = new Coin100();
+        Coin100 coin1 = new Coin100();
+        Coin50 coin2 = new Coin50();
+        int sum = 0;
+        sum = sum + coin0.getValue();
+        sum = sum + coin1.getValue();
+        sum = sum + coin2.getValue();
+		System.out.println(&quot;合計&quot; + sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:55:19</time>
+    <code>public class B6_2{
+    public
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:55:48</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 13:56:04</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:56:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:57:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:58:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 13:59:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:00:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:01:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:02:19</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:03:20</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:04:20</time>
+    <code>public class B6_2{
+    public static void main(String[] args){
+        A
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:05:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;&gt;
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:00</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:01</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:02</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:03</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:04</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:05</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:06</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:06:07</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:06:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:07:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add 
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:08:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:08:22</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:08:34</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:09:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:10:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:11:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:12:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:13:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:14:18</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:14:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:15:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:16:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:17:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(){
+            
+        }
+        System.out.println(&quot;合計&quot; +)
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:18:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; Arra; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:18:46</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; ArrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:15</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:16</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:19:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size; i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>notAuto</auto>
+    <time>2014-11-05 14:19:31</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:20:20</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
+<data>
+    <auto>auto</auto>
+    <time>2014-11-05 14:21:21</time>
+    <code>import java.util.ArrayList;
+public class B6_2{
+    public static void main(String[] args){
+        ArrayList&lt;Value&gt; arrayList = new ArrayList();
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin100());
+        arrayList.add (new Coin50());
+        
+        int sum = 0;
+        for(int i = 0; i &lt; arrayList.size(); i++){
+            
+        }
+        System.out.println(&quot;合計&quot; +  sum + &quot;です&quot;);
+    }
+}</code>
+  </data>
